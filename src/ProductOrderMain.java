@@ -1,7 +1,7 @@
 public class ProductOrderMain {
     public static void main(String[] args) {
         ProductOrder menu1 = new ProductOrder();
-        menu1.menu = "두부";
+        menu1.menu = "두부한모";
         menu1.price = 2000;
         menu1.quantity = 2;
 
