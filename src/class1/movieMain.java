@@ -1,3 +1,4 @@
+package class1;
 public class movieMain {
     public static void main(String[] args) {
         movie movie1 = new movie();

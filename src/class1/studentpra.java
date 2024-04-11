@@ -1,4 +1,5 @@
-import java.sql.SQLOutput;
+package class1;
+
 
 public class studentpra {
     public static void main(String[] args) {

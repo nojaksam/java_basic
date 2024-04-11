@@ -1,3 +1,6 @@
+package class1;
+
+
 public class ProductOrderMain {
     public static void main(String[] args) {
         ProductOrder menu1 = new ProductOrder();
